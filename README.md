@@ -1,6 +1,6 @@
 # Vats_Proxy
 
-[![PyPI](https://shields.io/pypi/v/vats_proxy.svg)](https://pypi.python.org/pypi/vats_proxy)
+[![PyPI](https://shields.io/pypi/v/vats_proxy.svg?color=blue)](https://pypi.python.org/pypi/vats_proxy)
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/vats_proxy?color=green&label=python%20versions&logo=python&logoColor=blue)
 
 Free Proxy library for Python to use with requests library.
