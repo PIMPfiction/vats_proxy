@@ -2,6 +2,7 @@
 
 [![PyPI](https://shields.io/pypi/v/vats_proxy.svg?color=blue)](https://pypi.python.org/pypi/vats_proxy)
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/vats_proxy?color=green&label=python%20versions&logo=python&logoColor=blue)
+![pypi-upload](https://github.com/PIMPfiction/vats_proxy/actions/workflows/python-publish.yml/badge.svg)
 
 Free Proxy library for Python to use with requests library.
 Checks proxy connection&health while scraping proxies.
