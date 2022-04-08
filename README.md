@@ -1,4 +1,8 @@
 # Vats_Proxy
+
+[![PyPI](https://img.shields.io/pypi/v/nltk.svg)](https://pypi.python.org/pypi/nltk)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/vats_proxy?color=green&label=python%20versions&logo=python&logoColor=blue)
+
 Free Proxy library for Python to use with requests library.
 Checks proxy connection&health while scraping proxies.
 
