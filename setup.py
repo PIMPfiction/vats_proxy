@@ -10,7 +10,7 @@ with open(path.join(HERE, 'README.md'), encoding='utf-8') as f:
 
 setup(
     name="vats_proxy",
-    version="0.6.2",
+    version="0.7.1",
     description="Free Proxy Library for requests library",
     long_description=long_description,
     long_description_content_type="text/markdown",
